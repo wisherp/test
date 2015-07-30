@@ -1,4 +1,4 @@
-test1
+test2
 
 from website.addons.base import AddonUserSettingsBase, AddonNodeSettingsBase
 from framework import GuidStoredObject
