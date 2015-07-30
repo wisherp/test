@@ -1,3 +1,5 @@
+test1
+
 from website.addons.base import AddonUserSettingsBase, AddonNodeSettingsBase
 from framework import GuidStoredObject
 from framework import fields
